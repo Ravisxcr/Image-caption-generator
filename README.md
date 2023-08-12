@@ -1,4 +1,4 @@
-# # Image to Caption Generator
+# Image to Caption Generator
 
 
 The Image to Caption Generator is a powerful deep learning model that can generate descriptive captions for a given input image. This repository contains the code and resources needed to train, fine-tune, and deploy the image captioning model. It utilizes a convolutional neural network (CNN) to extract features from the input image and feeds those features to a recurrent neural network (RNN) to generate the caption. The model is trained on a large dataset of images paired with corresponding captions.
